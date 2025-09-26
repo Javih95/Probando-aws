@@ -35,5 +35,3 @@ Aquí se muestra una captura de la conversación con **Amazon Q Developer**, don
 <img width="1920" height="1008" alt="Captura de pantalla 2025-09-26 092840" src="https://github.com/user-attachments/assets/3c5a9e87-5bed-4136-bcff-856bc2fded77" />
 
 
-```markdown
-![Captura de la conversación con Amazon Q Developer](docs/amazon-q-conversation.png)
